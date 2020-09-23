@@ -10,6 +10,6 @@ This app is a platform for booking online Activities and Groupon
 
 【Order】Your reservation order can be found here
 
-【Me】 General information
+【Me】 General information、Collection Activities、Collection Groupon
 
 If you have any questions, please contact technical support email：velezeliana225@gmail.com，Thank you for your support.
